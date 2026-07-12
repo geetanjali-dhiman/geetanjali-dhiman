@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hello!%20I%27m%20Geetanjali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20and%20Quant%20Enthusiast&descAlignY=58&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hello!%20I%27m%20Geetanjali&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20and%20AI%20Enthusiast&descAlignY=58&descSize=20)
 
 ### Let's Connect and have a Chat! 💬
 
